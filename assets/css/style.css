@@ -29,3 +29,10 @@ body{
 .maincont {
     margin-bottom: 80px;
 }
+
+.picname {
+    bottom: 20px;
+    font-weight: 300;
+    line-height: 30px;
+    text-align: center;
+}
